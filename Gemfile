@@ -9,6 +9,7 @@ gem "puma", ">= 5.0"
 # gem "redis", ">= 4.0.1"
 # gem "kredis"
 # gem "bcrypt", "~> 3.1.7"
+gem "postgresql", "1.0"
 gem "tzinfo-data", platforms: %i[ mswin mswin64 mingw x64_mingw jruby ]
 gem "bootsnap", require: false
 
